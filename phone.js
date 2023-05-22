@@ -14,7 +14,7 @@ buttons.forEach(button => {
 
             // Play the audio file.
             let audio = new Audio('audio_file.mp3');
-            //audio.play();
+            audio.play();
         }
 
         // Once the user has entered 4 digits, check the number.
